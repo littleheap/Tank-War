@@ -1,1 +1,2 @@
-*.js linguist-language=c#
+*.cs linguist-language=c#
+*.meta linguist-language=c#
