@@ -1,2 +1,2 @@
-*.cs linguist-language=c#
-*.meta linguist-language=c#
+*.cs linguist-language=cs
+*.meta linguist-language=cs
